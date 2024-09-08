@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019602098389",
+    "project_id": "attendance-cbed0",
+    "storage_bucket": "attendance-cbed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019602098389:android:af90580cc1f71fd8b2aa5c",
+        "android_client_info": {
+          "package_name": "com.teaminitiators.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqzAUfau4hQJ0A9pTsgNIRxP1q43rBEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
